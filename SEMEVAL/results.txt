@@ -1,0 +1,600 @@
+BEST BAEL SYNSETS for [cricket,sostenitore ] are [bn:00462932n,bn:00001603n]
+GLOSSES
+[cricket: Cricket is a census-designated place located between Wilkesboro and North Wilkesboro in Wilkes County, North Carolina, United States.]
+[sostenitore : A person who pleads for a cause or propounds an idea]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [scultura,statua ] are [bn:00069924n,bn:00074064n]
+GLOSSES
+[scultura: A three-dimensional work of plastic art]
+[statua : A sculpture representing a human or animal]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [browser,Mozilla Firefox ] are [bn:00013447n,bn:01387235n]
+GLOSSES
+[browser: A program used to view HTML documents]
+[Mozilla Firefox : Mozilla Firefox is a free and open-source web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation.]
+ASSIGNED SCORE: 4
+
+BEST BAEL SYNSETS for [Fox Terrier,Canon ] are [bn:00036142n,bn:00221813n]
+GLOSSES
+[Fox Terrier: Small lively black-and-white terriers formerly used to dig out foxes]
+[Canon : Canon is a city in Franklin and Hart counties in the U.S. state of Georgia.]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [HSBC,Gran Bretagna ] are [bn:02580408n,bn:00030861n]
+GLOSSES
+[HSBC: HSBC Holdings PLC is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong.]
+[Gran Bretagna : A division of the United Kingdom]
+ASSIGNED SCORE: 1
+
+BEST BAEL SYNSETS for [Bibbia,Vangelo ] are [bn:02252316n,bn:00957035n]
+GLOSSES
+[Bibbia: A bible is a reference document used by screenwriters for information on a television series' characters, settings, and other elements.]
+[Vangelo : The Vangelo is a high rank within the 'Ndrangheta, a criminal organisation in Calabria.]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [vestito,danza ] are [bn:01573378n,bn:01126934n]
+GLOSSES
+[vestito: The Dress or De jurk is a 1996 Dutch comedy film drama directed by Alex van Warmerdam.]
+[danza : Danza is a musical genre that originated in Ponce, a city in southern Puerto Rico.]
+ASSIGNED SCORE: 2.3
+
+BEST BAEL SYNSETS for [array,lista ] are [bn:00005869n,bn:00023140n]
+GLOSSES
+[array: An orderly arrangement]
+[lista : The act of counting; reciting numbers in ascending order]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [cella,gattabuia ] are [bn:00017026n,bn:00019832n]
+GLOSSES
+[cella: Any small compartment]
+[gattabuia : A correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [saggio,compito a casa ] are [bn:00027670n,bn:00069626n]
+GLOSSES
+[saggio: Something intended to communicate a particular impression]
+[compito a casa : A school task performed by a student to satisfy the teacher]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [computer,macchina ] are [bn:00054739n,bn:00026716n]
+GLOSSES
+[computer: A small digital computer based on a microprocessor and designed to be used by one person at a time]
+[macchina : An instrumentality invented for a particular purpose]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [panda,orso polare ] are [bn:01794969n,bn:00045719n]
+GLOSSES
+[panda: Panda is a plant genus of the family Pandaceae.]
+[orso polare : White bear of Arctic regions]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [nevrosi,mente ] are [bn:00057430n,bn:00047020n]
+GLOSSES
+[nevrosi: A mental or personality disturbance not attributable to any known neurological or organic dysfunction]
+[mente : Knowledge and intellectual ability]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [campagna,scimmia ] are [bn:00034265n,bn:02131227n]
+GLOSSES
+[campagna: A piece of land cleared of trees and usually enclosed]
+[scimmia : The Monkey is the ninth of the 12-year cycle of animals which appear in the Chinese zodiac related to the Chinese calendar.]
+ASSIGNED SCORE: 1
+
+BEST BAEL SYNSETS for [costante di Faraday,zaino ] are [bn:00033657n,bn:00007752n]
+GLOSSES
+[costante di Faraday: The English physicist and chemist who discovered electromagnetic induction (1791-1867)]
+[zaino : A bag carried by a strap on your back or shoulder]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [palazzo,grattacielo ] are [bn:00042667n,bn:00072030n]
+GLOSSES
+[palazzo: A large and imposing house]
+[grattacielo : A very tall building with many stories]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [elicottero,aereo ] are [bn:00018734n,bn:00002259n]
+GLOSSES
+[elicottero: An aircraft without wings that obtains its lift from the rotation of overhead blades]
+[aereo : The space in the atmosphere immediately above the earth]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [Università di Cambridge,Università di Oxford ] are [bn:00014988n,bn:00059980n]
+GLOSSES
+[Università di Cambridge: A university in England]
+[Università di Oxford : A university in England]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [bandiera,asta ] are [bn:00034960n,bn:02348645n]
+GLOSSES
+[bandiera: Emblem usually consisting of a rectangular piece of cloth of distinctive design]
+[asta : In musical notation, stems are the, "thin, vertical lines that are directly connected to the head."]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [finestra,tetto ] are [bn:03338860n,bn:00077607n]
+GLOSSES
+[finestra: A tectonic window is a geologic structure formed by erosion or normal faulting on a thrust system.]
+[tetto : The upper part of anything]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [gioco di carte,frisbee ] are [bn:00015923n,bn:02502206n]
+GLOSSES
+[gioco di carte: A game played with playing cards]
+[frisbee : Wham-O Inc. is an American toy company in Woodland Hills, California, United States.]
+ASSIGNED SCORE: 1.5
+
+BEST BAEL SYNSETS for [malware,worm ] are [bn:01363738n,bn:00081636n]
+GLOSSES
+[malware: Malware, short for malicious software, is an umbrella term used to refer to a variety of forms of harmful or intrusive software, including computer viruses, worms, Trojan horses, ransomware, spyware, adware, scareware, and other malicious programs.]
+[worm : A software program capable of reproducing itself that can spread from one computer to the next over a network]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [pianeta,stella ] are [bn:00063119n,bn:00073964n]
+GLOSSES
+[pianeta: A small planet and the farthest known planet from the sun; it has the most elliptical orbit of all the planets]
+[stella : (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [corridore,atleta ] are [bn:03864018n,bn:00058408n]
+GLOSSES
+[corridore: In baseball, base running is the act of running around the bases performed by members of the team at bat.]
+[atleta : Someone who rows a boat]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [calibro,ombrello ] are [bn:01971664n,bn:00078920n]
+GLOSSES
+[calibro: In artillery, caliber or calibre is the internal diameter of a gun barrel, or by extension a relative measure of the length.]
+[ombrello : A lightweight handheld collapsible canopy]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [WiFi,WikiLeaks ] are [bn:00081176n,bn:03777357n]
+GLOSSES
+[WiFi: A local area network that uses high frequency radio signals to transmit and receive data over distances of a few hundred feet; uses ethernet protocol]
+[WikiLeaks : WikiLeaks is an international non-profit organisation that publishes secret information, news leaks, and classified media provided by anonymous sources.]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [siccità,acqua ] are [bn:00028967n,bn:03199506n]
+GLOSSES
+[siccità: The condition of not containing or being covered by a liquid (especially water)]
+[acqua : "Water" is the second episode of season 1 of the re-imagined Battlestar Galactica television series.]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [aeroporto,pezzo ] are [bn:00001676n,bn:00060882n]
+GLOSSES
+[aeroporto: An airfield equipped with control tower and hangars as well as accommodations for passengers and cargo]
+[pezzo : A section of text; particularly a section of medium length]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [orchestra,banda ] are [bn:00059287n,bn:00008279n]
+GLOSSES
+[orchestra: Lowered area in front of a stage where an orchestra accompanies the performers]
+[banda : An unofficial association of people or groups]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [mojito,mohito ] are [bn:01361585n,bn:01361585n]
+GLOSSES
+[mojito: Mojito is a traditional Cuban highball.]
+[mohito : Mojito is a traditional Cuban highball.]
+ASSIGNED SCORE: 4
+
+BEST BAEL SYNSETS for [programma,esame ] are [bn:00069579n,bn:00032089n]
+GLOSSES
+[programma: An elaborate and systematic plan of action]
+[esame : A set of questions or exercises evaluating skill or knowledge]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [teorema,teoria ] are [bn:00076832n,bn:00045632n]
+GLOSSES
+[teorema: An idea accepted as a demonstrable truth]
+[teoria : A tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [yo-yo,giocattolo ] are [bn:00081921n,bn:00062965n]
+GLOSSES
+[yo-yo: A toy consisting of a spool that is reeled up and down on a string by motions of the hand]
+[giocattolo : An artifact designed to be played with]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [tormenta,pioggia ] are [bn:01456385n,bn:00066032n]
+GLOSSES
+[tormenta: "Cold Snap" is the twentieth episode of the third season of the NBC science fiction drama series Heroes and fifty-fourth episode overall.]
+[pioggia : Water falling in drops from vapor condensed in the atmosphere]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [storico,storiografo ] are [bn:00044268n,bn:00044266n]
+GLOSSES
+[storico: The discipline that records and interprets past events involving human beings]
+[storiografo : The writing of history]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [Siemens,treno elettrico ] are [Not found,Not found]
+GLOSSES
+[Siemens: Not found]
+[treno elettrico : Not found]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [secolo,anno ] are [bn:00001939n,bn:00019477n]
+GLOSSES
+[secolo: A prolonged period of time]
+[anno : A body of students who are taught together]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [lega,acciaio ] are [bn:00020039n,bn:03604891n]
+GLOSSES
+[lega: A formal association of people with similar interests]
+[acciaio : Steel grades to classify various steels by their composition and physical properties have been developed by a number of standards organizations.]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [magistrato,giudice ] are [bn:00048488n,bn:00031974n]
+GLOSSES
+[magistrato: A public official authorized to decide questions brought before a court of justice]
+[giudice : An authority who is able to estimate worth or quality]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [caos,classe ] are [bn:00003840n,bn:00019477n]
+GLOSSES
+[caos: A state of lawlessness and disorder (usually resulting from a failure of government)]
+[classe : A body of students who are taught together]
+ASSIGNED SCORE: 1.5
+
+BEST BAEL SYNSETS for [formazione a distanza,internet ] are [bn:00022864n,bn:00722917n]
+GLOSSES
+[formazione a distanza: A school that teaches nonresident students by mail]
+[internet : Internetworking is the practice of connecting a computer network with other networks through the use of gateways that provide a common method of routing information packets between the networks.]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [sabbia,piede ] are [bn:00069126n,bn:01780538n]
+GLOSSES
+[sabbia: A loose material consisting of grains of rock or coral]
+[piede : The pous or Greek foot was a Greek unit of length.]
+ASSIGNED SCORE: 1
+
+BEST BAEL SYNSETS for [IMF,Deutsche Bank ] are [Not found,Not found]
+GLOSSES
+[IMF: Not found]
+[Deutsche Bank : Not found]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [Guardian,Times ] are [bn:02505554n,bn:03113174n]
+GLOSSES
+[Guardian: Guardian is an American Christian hard rock and metal band.]
+[Times : The Times is a British daily national newspaper based in London, England.]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [baco da seta,Via della Seta ] are [bn:00040408n,bn:00071602n]
+GLOSSES
+[baco da seta: Larva of a saturniid moth; spins a large amount of strong silk in constructing its cocoon]
+[Via della Seta : An ancient trade route between China and the Mediterranean (4,000 miles); followed by Marco Polo in the 13th century to reach Cathay]
+ASSIGNED SCORE: 1
+
+BEST BAEL SYNSETS for [libertà,oasi ] are [bn:00019365n,bn:00058412n]
+GLOSSES
+[libertà: One's freedom to exercise one's rights as guaranteed under the laws of the country]
+[oasi : A fertile tract in a desert (where the water table approaches the surface)]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [citoplasma,dito ] are [bn:00024905n,bn:00024979n]
+GLOSSES
+[citoplasma: The protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism]
+[dito : A finger or toe in human beings or corresponding body part in other vertebrates]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [protestante,cristiano ] are [bn:00064869n,bn:00018828n]
+GLOSSES
+[protestante: The theological system of any of the churches of western Christendom that separated from the Roman Catholic Church during the Reformation]
+[cristiano : A monotheistic system of beliefs and practices based on the Old Testament and the teachings of Jesus as embodied in the New Testament and emphasizing the role of Jesus as savior]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [Leonardo da Vinci,L'Ultima Cena ] are [bn:01579294n,bn:03599114n]
+GLOSSES
+[Leonardo da Vinci: RFA Maine was a 7,432 GRT hospital ship which was built in 1924 as the ocean liner Leonardo da Vinci by SA Ansaldo, La Spezia, Italy for the Società di Navigazione Transatlantica Italiana.]
+[L'Ultima Cena : The Last Supper is a late 15th-century mural painting by Leonardo da Vinci housed by the refectory of the Convent of Santa Maria delle Grazie in Milan.]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [mappa,piazza ] are [bn:00045963n,bn:00065099n]
+GLOSSES
+[mappa: A visual representation (a picture or diagram) that is used make some subject more pleasing or easier to understand]
+[piazza : An open area at the meeting of two or more streets]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [parlamento,congresso ] are [bn:00060708n,bn:02622606n]
+GLOSSES
+[parlamento: A legislative assembly in certain countries]
+[congresso : The terms party conference, political convention, and party congress usually refer to a general meeting of a political party.]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [raccolta fondi,sviluppo ] are [bn:02806770n,bn:00026697n]
+GLOSSES
+[raccolta fondi: "Bowling for Votes" is the thirteenth episode of the fourth season of the American comedy television series Parks and Recreation, and the 59th overall episode of the series.]
+[sviluppo : (biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level]
+ASSIGNED SCORE: 1.5
+
+BEST BAEL SYNSETS for [patologia,ematologia ] are [bn:00061012n,bn:00042468n]
+GLOSSES
+[patologia: The branch of medical science that studies the causes and nature and effects of diseases]
+[ematologia : The branch of medicine that deals with diseases of the blood and blood-forming organs]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [valle,depressione ] are [bn:03218215n,bn:00024743n]
+GLOSSES
+[valle: Bale/Valle is a small town and municipality in Istria County, Croatia.]
+[depressione : (meteorology) rapid inward circulation of air masses about a low pressure center; circling counterclockwise in the northern hemisphere and clockwise in the southern]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [telescopio,sedia ] are [bn:00076416n,bn:00008997n]
+GLOSSES
+[telescopio: A small constellation in the southern hemisphere near Ara]
+[sedia : A wheelchair usually pushed by an attendant, as at a spa]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [heavy metal,palco ] are [bn:00752060n,bn:00073816n]
+GLOSSES
+[heavy metal: "Heavy Metal" is the fourth episode of the American television series Terminator: The Sarah Connor Chronicles.]
+[palco : A large platform on which people can stand and can be seen by an audience]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [globalismo,visto ] are [bn:03571132n,bn:00080087n]
+GLOSSES
+[globalismo: Globalism is a group of ideologies that advocate the concept of globalization.]
+[visto : An endorsement made in a passport that allows the bearer to enter the country issuing it]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [pipistrello,vampiro ] are [bn:00019880n,bn:03129053n]
+GLOSSES
+[pipistrello: A loose outer garment]
+[vampiro : In the fictional world of the television series Buffy the Vampire Slayer and its spin-off series Angel, a vampire is a unique variety of demon that can only exist on the earthly plane by inhabiting and animating a human corpse.]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [deputato,dirigente ] are [bn:00026427n,bn:00032179n]
+GLOSSES
+[deputato: A member of the lower chamber of a legislative assembly (such as in France)]
+[dirigente : A person responsible for the administration of a business]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [elettricità,cassa ] are [bn:00030181n,bn:00023594n]
+GLOSSES
+[elettricità: Energy made available by the flow of electric charge through a conductor]
+[cassa : A rugged box (usually made of wood); used for shipping]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [forestiero,straniero ] are [bn:00002725n,bn:01846050n]
+GLOSSES
+[forestiero: A person who comes from a foreign country; someone who does not owe allegiance to your country]
+[straniero : The Stranger is a fictional character appearing in American comic books published by Marvel Comics.]
+ASSIGNED SCORE: 4
+
+BEST BAEL SYNSETS for [bottone,macchina da cucire ] are [bn:00014305n,bn:00070769n]
+GLOSSES
+[bottone: A round fastener sewn to shirts and coats etc to fit through buttonholes]
+[macchina da cucire : A textile machine used as a home appliance for sewing]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [mago,cavo ] are [bn:01625459n,bn:00021675n]
+GLOSSES
+[mago: In the fiction of J. R. R. Tolkien, the Wizards of Middle-earth are a group of beings outwardly resembling Men but possessing much greater physical and mental power.]
+[cavo : A metal conductor that carries electricity over a distance]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [filosofo,corsa ] are [bn:00061980n,bn:00068552n]
+GLOSSES
+[filosofo: A wise person who is calm and rational; someone who lives a life of reason with equanimity]
+[corsa : The act of running; traveling on foot at a fast pace]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [popcorn,cinema ] are [bn:01043889n,bn:00034481n]
+GLOSSES
+[popcorn: PopCorn is a breakout clone by French developers Christophe Lacaze and Frédérick Raynal, released in 1988.]
+[cinema : A producer of motion pictures]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [agricoltura,pianta ] are [bn:00033694n,bn:00005439n]
+GLOSSES
+[agricoltura: Agriculture considered as an occupation or way of life]
+[pianta : Scale drawing of a structure]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [poeta,giornalista ] are [bn:02420589n,bn:02464847n]
+GLOSSES
+[poeta: Poet, played by muMs da Schemer, is a fictional character in the HBO series Oz.]
+[giornalista : The Journalist ]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [tempo,onda ] are [bn:00060099n,bn:00080701n]
+GLOSSES
+[tempo: (music) the speed at which a composition is to be played]
+[onda : The distance (measured in the direction of propagation) between two points in the same phase in consecutive cycles of a wave]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [civiltà,stile di vita ] are [bn:00019383n,bn:00061005n]
+GLOSSES
+[civiltà: A particular society at a particular time and place]
+[stile di vita : A course of conduct]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [neve,ghiaccio ] are [bn:00011445n,bn:03873912n]
+GLOSSES
+[neve: Street names for cocaine]
+[ghiaccio : Icing on ships is a serious hazard where cold temperatures combined with high wind speed result in spray blown off the sea freezing immediately on contact with the ship.]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [Seconda Guerra Mondiale,Beethoven ] are [bn:00070139n,bn:00009608n]
+GLOSSES
+[Seconda Guerra Mondiale: A war between the Allies (Australia, Belgium, Bolivia, Brazil, Canada, China, Colombia, Costa Rica, Cuba, Czechoslovakia, Dominican Republic, El Salvador, Ethiopia, France, Greece, Guatemala, Haiti, Honduras, India, Iran, Iraq, Luxembourg, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Panama, Philippines, Poland, South Africa, United Kingdom, United States, USSR, Yugoslavia) and the Axis (Albania, Bulgaria, Finland, Germany, Hungary, Italy, Japan, Rumania, Slovakia, Thailand) from 1939 to 1945]
+[Beethoven : German composer of instrumental music (especially symphonic and chamber music); continued to compose after he lost his hearing (1770-1827)]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [scheda madre,scheda madre ] are [bn:00023437n,bn:00023437n]
+GLOSSES
+[scheda madre: The main circuit board for a computer]
+[scheda madre : The main circuit board for a computer]
+ASSIGNED SCORE: 4
+
+BEST BAEL SYNSETS for [circolo,marchio ] are [bn:00020041n,bn:00041241n]
+GLOSSES
+[circolo: A building that is occupied by a social club]
+[marchio : A number or letter indicating quality (especially of a student's performance)]
+ASSIGNED SCORE: 1
+
+BEST BAEL SYNSETS for [Alessandro Magno,conquistatore ] are [bn:00002612n,bn:00021942n]
+GLOSSES
+[Alessandro Magno: King of Macedon; conqueror of Greece and Egypt and Persia; founder of Alexandria (356-323 BC)]
+[conquistatore : An adventurer (especially one who led the Spanish conquest of Mexico and Peru in the 16th century)]
+ASSIGNED SCORE: 3.5
+
+BEST BAEL SYNSETS for [app,galassia ] are [bn:00600462n,bn:00032476n]
+GLOSSES
+[app: Gefreiter ]
+[galassia : (astronomy) a collection of star systems; any of the billions of systems each having many stars and nebulae and dust]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [cloud computing,pioggia ] are [bn:01225375n,bn:00066032n]
+GLOSSES
+[cloud computing: Cloud computing is an information technology paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.]
+[pioggia : Water falling in drops from vapor condensed in the atmosphere]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [televisione,attore ] are [bn:00076373n,bn:00001176n]
+GLOSSES
+[televisione: Broadcasting visual images of stationary or moving objects - Ernie Kovacs]
+[attore : A theatrical performer]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [delta,mare ] are [bn:00480688n,bn:00013139n]
+GLOSSES
+[delta: Delta is a village in Fulton County, Ohio, United States.]
+[mare : Water containing salts]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [filato,filo ] are [bn:00077028n,bn:00021675n]
+GLOSSES
+[filato: A fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving]
+[filo : A metal conductor that carries electricity over a distance]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [attraversamento pedonale,persona ] are [bn:00024006n,bn:00044576n]
+GLOSSES
+[attraversamento pedonale: A path (often marked) where something (as a street or railroad) can be crossed to get from one side to the other]
+[persona : Any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [proteina,maniglia ] are [bn:00064855n,bn:00049350n]
+GLOSSES
+[proteina: Any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes]
+[maniglia : A round handle]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [U2,Ronaldo ] are [bn:03320432n,bn:03510109n]
+GLOSSES
+[U2: U2 are an Irish rock band from Dublin formed in 1976.]
+[Ronaldo : Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, is a retired Brazilian professional footballer who played as a striker.]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [Apple,iPhone ] are [bn:00955003n,bn:15370153n]
+GLOSSES
+[Apple: Apple is the only full-length studio album by the American alternative rock band Mother Love Bone.]
+[iPhone : The iPhone is the first smartphone model designed and marketed by Apple Inc.]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [menta piperita,gomma ] are [bn:00054382n,bn:00013545n]
+GLOSSES
+[menta piperita: Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring]
+[gomma : A kind of chewing gum that can be blown into bubbles]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [poster,carta ] are [bn:00010395n,bn:00053303n]
+GLOSSES
+[poster: A sign posted in a public place as an advertisement]
+[carta : A diagrammatic representation of the earth's surface (or part of it)]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [UNICEF,radice ] are [bn:00079074n,bn:01998276n]
+GLOSSES
+[UNICEF: An agency of the United Nations responsible for programs to aid education and the health of children and mothers in developing countries]
+[radice : In mathematics, a zero, also sometimes called a root, of a real-, complex- or generally vector-valued function f is a member x of the domain of f such that f vanishes at x; that is, x is a solution of the equation f = 0.]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [xenofobia,razzismo ] are [bn:00081765n,bn:00065822n]
+GLOSSES
+[xenofobia: A fear of foreigners or strangers]
+[razzismo : Discriminatory or abusive behavior towards members of another race]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [Woody Allen,lente ] are [bn:00002833n,bn:00030234n]
+GLOSSES
+[Woody Allen: United States filmmaker and comic actor (1935-)]
+[lente : Electronic equipment that uses a magnetic or electric field in order to focus a beam of electrons]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [lampada,genio ] are [bn:00075819n,bn:00012682n]
+GLOSSES
+[lampada: A lamp that sits on a table]
+[genio : Someone who has exceptional intellectual ability and originality]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [marina militare,isola ] are [bn:00251727n,bn:03356270n]
+GLOSSES
+[marina militare: The Italian Navy is the maritime defence force of the Italian Republic.]
+[isola : Izola is an old fishing town and a municipality in southwestern Slovenia on the Adriatic coast of the Istrian peninsula.]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [muro,castello ] are [bn:00053657n,bn:00069456n]
+GLOSSES
+[muro: Structure built of stone or brick by a mason]
+[castello : A system of scaffolds]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [dinosauro,elefante ] are [bn:00027226n,bn:14423804n]
+GLOSSES
+[dinosauro: Any of numerous extinct terrestrial reptiles of the Mesozoic era]
+[elefante : Elephantidae is a family of large, herbivorous mammals collectively called elephants and mammoths.]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [torre dell'orologio,pietra ] are [bn:01408351n,bn:00068046n]
+GLOSSES
+[torre dell'orologio: The Clock Tower in Venice is an early Renaissance building on the north side of the Piazza San Marco, at the entrance to the Merceria.]
+[pietra : Material consisting of the aggregate of minerals like those making up the Earth's crust]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [medio oriente,Eufrate ] are [bn:00054852n,bn:00031871n]
+GLOSSES
+[medio oriente: The area around the eastern Mediterranean; from Turkey to northern Africa and eastward to Iran; the site of such ancient civilizations as Phoenicia and Babylon and Egypt and the birthplace of Judaism and Christianity and Islam; had continuous economic and political turmoil in the 20th century]
+[Eufrate : A river in southwestern Asia; flows into the Persian Gulf; was important in the development of several great civilizations in ancient Mesopotamia]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [prato,prateria ] are [bn:00043214n,bn:00066139n]
+GLOSSES
+[prato: A field where grass or alfalfa are grown to be made into hay]
+[prateria : A large tract of grassy open land on which livestock can graze]
+ASSIGNED SCORE: 4
+
+BEST BAEL SYNSETS for [chitarra,violino ] are [bn:00042150n,bn:00034250n]
+GLOSSES
+[chitarra: A stringed instrument usually having six strings; played by strumming or plucking]
+[violino : Bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow]
+ASSIGNED SCORE: 3
+
+BEST BAEL SYNSETS for [diplomazia,negoziato ] are [bn:00027281n,bn:00026838n]
+GLOSSES
+[diplomazia: Negotiation between nations]
+[negoziato : A discussion intended to produce an agreement]
+ASSIGNED SCORE: 2.5
+
+BEST BAEL SYNSETS for [gravità,meteora ] are [bn:00041501n,bn:01105355n]
+GLOSSES
+[gravità: A solemn and dignified feeling]
+[meteora : Meteora is the second studio album by American rock band Linkin Park.]
+ASSIGNED SCORE: 2
+
+BEST BAEL SYNSETS for [QI,Mensa ] are [bn:02883033n,bn:00753618n]
+GLOSSES
+[QI: Qi is an open interface standard developed by the Wireless Power Consortium for inductive charging over distances of up to 4 cm.]
+[Mensa : Mensa is the largest and oldest high IQ society in the world.]
+ASSIGNED SCORE: 0
+
+BEST BAEL SYNSETS for [Union Jack,bandiera ] are [bn:00872417n,bn:00034960n]
+GLOSSES
+[Union Jack: Union Jack is the name of three fictional superheroes appearing in American comic books published by Marvel Comics.]
+[bandiera : Emblem usually consisting of a rectangular piece of cloth of distinctive design]
+ASSIGNED SCORE: 4
+

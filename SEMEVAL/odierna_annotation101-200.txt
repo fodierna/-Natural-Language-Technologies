@@ -1,0 +1,100 @@
+cricket	sostenitore 2
+scultura	statua 3
+browser	Mozilla Firefox 4
+Fox Terrier	Canon 0
+HSBC	Gran Bretagna 1
+Bibbia	Vangelo 3
+vestito	danza 2.3
+array	lista 3.5
+cella	gattabuia 3.5
+saggio	compito a casa 2
+computer	macchina 3.5
+panda	orso polare 3
+nevrosi	mente 3
+campagna	scimmia 1
+costante di Faraday	zaino 0
+palazzo	grattacielo 2.5
+elicottero	aereo 3
+Università di Cambridge	Università di Oxford 3.5
+bandiera	asta 2
+finestra	tetto 2
+gioco di carte	frisbee 1.5
+malware	worm 3.5
+pianeta	stella 3
+corridore	atleta 3.5
+calibro	ombrello 0
+WiFi	WikiLeaks 2
+siccità	acqua 2
+aeroporto	pezzo 0
+orchestra	banda 3
+mojito	mohito 4
+programma	esame 2.5
+teorema	teoria 3
+yo-yo	giocattolo 3
+tormenta	pioggia 2.5
+storico	storiografo 3
+Siemens	treno elettrico 3
+secolo	anno 3.5
+lega	acciaio 3
+magistrato	giudice 3
+caos	classe 1.5
+formazione a distanza	internet 3.5
+sabbia	piede 1
+IMF	Deutsche Bank 2
+Guardian	Times 3
+baco da seta	Via della Seta 1
+libertà	oasi 0
+citoplasma	dito 0
+protestante	cristiano 3
+Leonardo da Vinci	L'Ultima Cena 3.5
+mappa	piazza 2
+parlamento	congresso 2
+raccolta fondi	sviluppo 1.5
+patologia	ematologia 2.5
+valle	depressione 3
+telescopio	sedia 0
+heavy metal	palco 3
+globalismo	visto 3
+pipistrello	vampiro 3
+deputato	dirigente 2
+elettricità	cassa 0
+forestiero	straniero 4
+bottone	macchina da cucire 3
+mago	cavo 0
+filosofo	corsa 0
+popcorn	cinema 3
+agricoltura	pianta 3
+poeta	giornalista 2
+tempo	onda 2.5
+civiltà	stile di vita 2
+neve	ghiaccio 3.5
+Seconda Guerra Mondiale	Beethoven 2
+scheda madre	scheda madre 4
+circolo	marchio 1
+Alessandro Magno	conquistatore 3.5
+app	galassia 0
+cloud computing	pioggia 0
+televisione	attore 3
+delta	mare 0
+filato	filo 3
+attraversamento pedonale	persona 3
+proteina	maniglia 0
+U2	Ronaldo 0
+Apple	iPhone 3
+menta piperita	gomma 2.5
+poster	carta 2.5
+UNICEF	radice 0
+xenofobia	razzismo 3
+Woody Allen	lente 2
+lampada	genio 2
+marina militare	isola 2
+muro	castello 2.5
+dinosauro	elefante 3
+torre dell'orologio	pietra 2.5
+medio oriente	Eufrate 2
+prato	prateria 4
+chitarra	violino 3
+diplomazia	negoziato 2.5
+gravità	meteora 2
+QI	Mensa 0
+Union Jack	bandiera 4
