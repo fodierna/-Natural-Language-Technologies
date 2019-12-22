@@ -8,7 +8,7 @@ The goal of this project is to evaluate the similarity between pairs of words gi
 The goal of the project is to disambiguate a polysemic word in a given sentence. I implemented the **Lesk algorithm** and disambiguate 63 polysemic word (one for each sentences). 50 out of 63 sentences are extracted from the SemCor corpus. 
 
 ## Project 3: Semantic Evaluation (SEMEVAL)
-The goal of the project is to evaluate the semantic of pairs of words given in input, furthermore we have to assign a similiraty score to the pairs.
+The goal of the project is to evaluate the semantic of pairs of words given in input, furthermore we have to assign a similarity score to the pairs.
 
 ## Project 4: Automatic Summarization with NASARI (NASARI)
 The goal of this project is to produce an extracting summary of a given input document. To do this I computed the relevance of each paragraph contained in the document with the respect to the topic and the context. The topic is the set of relevat vectors extracted from NASARI using the title of the document. The contex is the set of relevant vectors extracted from NASARI using the body of the document.  
