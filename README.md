@@ -18,10 +18,8 @@ The goal of this project is to build a translator to translate from Italian to I
 
 |Italian             |  Italian-Yodish|
 | :---         |     :---:      |
-|![picture](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/it1.jpg)  |  ![picture](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/yo1.jpg)|  
-
-|![picture](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/it2.jpg)  |  ![picture](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/yo2.jpg)|  
-
-|![picture](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/it3.jpg)  |  ![picture](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/yo3.jpg)|
+|![](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/it1.jpg)  |  ![](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/yo1.jpg)|  
+|![](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/it2.jpg)  |  ![](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/yo2.jpg)|  
+|![](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/it3.jpg)  |  ![](https://github.com/fodierna/Natural-Language-Technologies/blob/master/YODA/results/yo3.jpg)|
 
 
